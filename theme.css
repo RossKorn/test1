@@ -1240,7 +1240,7 @@ pre {
   padding: 0.5rem 0;
   margin: 0.125rem 0 0;
   font-size: 1rem;
-  color: #292b2c;
+  color: white;
   text-align: left;
   list-style: none;
   background-color: #fff;
@@ -2537,7 +2537,7 @@ select.form-control-lg:not([size]):not([multiple]), .input-group-lg > select.for
     text-decoration: none;
     background-color: #f7f7f9; }
   .list-group-item-action:active {
-    color: #292b2c;
+    color: white;
     background-color: #eceeef; }
 
 .list-group-item {
@@ -3171,7 +3171,7 @@ button.list-group-item-danger {
   display: block;
   max-width: 276px;
   padding: 1px;
-  font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  font-family: Lato;
   font-style: normal;
   font-weight: normal;
   line-height: 1.5;
@@ -3292,7 +3292,7 @@ button.list-group-item-danger {
 
 .popover-content {
   padding: 9px 14px;
-  color: #292b2c; }
+  color: white; }
 
 .popover::before,
 .popover::after {
@@ -3409,11 +3409,11 @@ html {
 
 body {
   margin: 0;
-  font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  font-family: Lato;
   font-size: 1rem;
   font-weight: normal;
   line-height: 1.5;
-  color: #292b2c;
+  color: white;
   background-color: white; }
 
 [tabindex="-1"]:focus {
@@ -3819,7 +3819,7 @@ template {
   position: absolute;
   z-index: 1070;
   display: block;
-  font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  font-family: Lato;
   font-style: normal;
   font-weight: normal;
   line-height: 1.5;
